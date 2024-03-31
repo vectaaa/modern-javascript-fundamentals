@@ -36,3 +36,4 @@ let test = {
 };
 delete test.x;
 console.log(test.x);
+//New Code
